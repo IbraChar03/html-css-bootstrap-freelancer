@@ -68,6 +68,7 @@
     border-radius: 20px;
     
 }
+
 .box_about{
     width: 30%;
     height:60px;
@@ -76,6 +77,12 @@
 }
 .box3{
     width: 30%;
+    height:60px;
+    background-color: blue;
+    margin: auto;
+}
+.box_download{
+    width: 40%;
     height:60px;
     background-color: blue;
     margin: auto;
@@ -97,6 +104,17 @@
     height:500px;
     background-color: brown;
     margin: auto;
+}
+.form{
+    height: 90%;
+    width: 100%;
+    background-color: blue;
+}
+.button-send{
+    height: 10%;
+    width: 100%;
+    background-color: chartreuse;
+
 }
 
 .box_location{
