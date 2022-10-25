@@ -31,6 +31,12 @@
     background-color: brown;
     margin: auto;
 }
+.box-inner-profile{
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: blueviolet;
+}
 .box_start{
     width: 70%;
     height: 60px;
@@ -75,10 +81,16 @@
     margin: auto;
 }
 .box_text{
-    width: 60%;
+    width: 100%;
     height:400px;
     background-color: blue;
     margin: auto;
+}
+.box-t{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    background-color: brown;
 }
 .box_form{
     width: 45%;
@@ -92,6 +104,12 @@
     height:100px;
     background-color: brown;
     margin: auto;
+}
+.box-inner{
+    width: 70%;
+    height: 100%;
+    margin: auto;
+    background-color: chartreuse;
 }
 .box_social{
     width: 100%;
