@@ -30,12 +30,22 @@
     height: 300px;
     background-color: brown;
     margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon_color{
+    color: white;
 }
 .box-inner-profile{
     width: 50%;
     height: 100%;
     margin: auto;
     background-color: blueviolet;
+}
+.avatar{
+    width: 250px;
+    height: 250px;
 }
 .box_start{
     width: 70%;
