@@ -241,10 +241,14 @@ h3:after {
     color: white;
     font-size: 25px;
     display: inline-block;
-  border-radius: 50px;
+  border-radius: 30px;
   box-shadow:0 0 4px white;
   padding: 0.5em 0.6em;
   object-fit: contain;
+}
+.pad-g{
+  padding: 0.5em 0.4em;
+
 }
 .box_social{
     width: 100%;
