@@ -16,6 +16,18 @@ body { padding-top: 70px;
     width: 100%;
     background-color: #1abc9c;
 }
+input[type=number], input[type=email], input[type=name] {
+    border: 1px solid #dbdfea;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
+textarea{
+    border: 1px solid #dbdfea;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: white;
+}
 .locat{
     width: 100%;
     background-color: #3a546d;
